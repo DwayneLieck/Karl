@@ -1,3 +1,5 @@
+active= false
+
 ---
 # Display name
 title: Karl Lieck

@@ -15,4 +15,17 @@ header:
   image: ""
 ---
 
-CD Link hier
+{{< figure src="Cover-klein.png" >}}
+
+
+Ues Moddersproak
+{{< audio src="01UesModdersproak.mp3" >}}
+
+Minn Kengertiit
+{{< audio src="02MinnKengertiit.mp3" >}}
+
+Wenktertiit
+{{< audio src="03Wenktertiit.mp3" >}}
+
+[Mehr Lieder von Karl Lieck](http://www.heimatverein-wassenberg.de/akmundart/akheimatlieder)
+
