@@ -1,9 +1,11 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Karl Lieck erhält Bundesverdienstkreuz
+date: 2013-03-28
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Über das Bundesverdienstkreuz freut sich Karl Lieck gemeinsam mit Ehefrau Gerti. Stellvertretender Landrat Willi Paffen überreichte Lieck die Nadel mit der Urkunde des Bundespräsidenten.
+
+https://rp-online.de/nrw/staedte/kreis-heinsberg/vielen-menschen-heimat-nahegebracht_aid-15870297
 
 <!--more-->
 

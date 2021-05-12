@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 #[[main]]
-#  name = "Home"
+#  name = "Karl Lieck"
 #  url = "/"
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "Artikel"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Bücher"
   url = "people"
   weight = 30
 
