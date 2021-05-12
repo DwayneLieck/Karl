@@ -1,6 +1,6 @@
 ---
 title: Bücher
-summary: Here we describe how to add a page to your site.
+summary: 
 date: "2021-05-12T00:00:00Z"
 url: Bücher
 
