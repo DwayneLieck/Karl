@@ -18,3 +18,8 @@
   url = "Bücher"
   weight = 30
 
+[[main]]
+name = "Musik"
+url = "Musik"
+weight = 40
+
