@@ -5,7 +5,7 @@
 
 #[[main]]
 #  name = "Karl Lieck"
-#  url = "/"
+#  url = "home"
 #  weight = 10
 
 [[main]]
@@ -15,20 +15,6 @@
 
 [[main]]
   name = "Bücher"
-  url = "people"
+  url = "Bücher"
   weight = 30
 
-[[main]]
-  name = "Events"
-  url = "event"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "publication"
-  weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 60
