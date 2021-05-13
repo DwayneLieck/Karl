@@ -255,9 +255,9 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
-  google_site_verification = ""
+  google_analytics = "Karl Lieck"
+  google_tag_manager = "Karl Lieck"
+  google_site_verification = "Karl Lieck"
 
 ############################
 ## Content Management System
