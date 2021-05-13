@@ -12,5 +12,3 @@ comments: false  # Show comments?
 ---
 
 {{< figure src="Karl-Hut.jpg" >}}
-
-Karl Lieck, geboren am 14.05.1931 in Wassenberg
