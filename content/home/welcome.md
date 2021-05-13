@@ -19,4 +19,4 @@ advanced:
 
 Karl Lieck ist ein ehemaliger Lehrer und Träger des Bundesverdienstkreuzes und des Rheinlandtalers. Er ist Heimatkundler, Autor von über 20 Veröffentlichungen, Dichter, Komponist, Mundartpfleger, Marathonmann, Büttenredner, Musiker, Lokalhistoriker und NS-Zeitzeuge.
 
-{{< figure src="Bundesverdienstkreuz.jpg" >}}
+{{< figure src= "Bundesverdienstkreuz.jpg" >}}
