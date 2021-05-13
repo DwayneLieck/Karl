@@ -9,17 +9,23 @@
 #  weight = 10
 
 [[main]]
+  name = "Biografie"
+  url = "Bio"
+  weight = 20
+
+
+[[main]]
   name = "Artikel"
   url = "post"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Bücher"
   url = "Bücher"
-  weight = 30
+  weight = 40
 
 [[main]]
 name = "Musik"
 url = "Musik"
-weight = 40
+weight = 50
 

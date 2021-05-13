@@ -213,11 +213,12 @@ plugins_js  = []
 ## Search
 ############################
 [search]
+  active= false
   # Search provider:
   #   "": No search engine
   #   "wowchemy": Built-in search engine
   #   "algolia": Algolia (https://www.algolia.com)
-  provider = "wowchemy"
+  provider = ""
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
